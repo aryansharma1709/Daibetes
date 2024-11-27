@@ -5,9 +5,8 @@ import numpy as np
 import plotly.graph_objects as go
 import plotly.express as px
 import seaborn as sns
-import matplotlib.pyplot as plt
-from streamlit_lottie import st_lottie
-import requests
+
+
 
 # Set page configuration
 st.set_page_config(page_title="Diabetes Risk Analyzer", page_icon="🩺", layout="wide")
